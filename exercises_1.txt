@@ -1,0 +1,52 @@
+1. Newton Second Law
+
+store m = 600
+store a = 2
+store resultan
+
+compute resultan as m*a
+display resultan
+
+
+
+
+2. Tahun Kabisat
+
+store tahun null
+
+if tahun mod 4 = 0, tahun mod 100 <> 0
+  display 'tahun ini merupakan tahun kabisat'
+if else tahun mod 4 = 0, tahun mod 100 = 0, tahun mod 400 = 0
+  display 'tahun ini merupakan tahun kabisat'
+else
+  display 'tahun ini bukan merupakan tahun kabisat'
+end if
+
+
+
+
+3. Laundry Day
+
+store pakaian = 20
+store mesincuci = 0
+
+while mesincuci =< pakaian
+  add mesincuci by 1
+
+display 'mesin cuci akan menyala'
+
+
+
+
+4. Periksa Kuku
+
+store jmlmurid = 40
+store murid = 0
+store Kuku = 'kukupendek'
+
+while murid =< jmlmurid
+  if murid = kukupendek then
+    display 'mendapat pujian'
+  else
+    diplay 'mendapat hukuman'
+  add murid by 1
