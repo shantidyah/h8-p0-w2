@@ -45,7 +45,7 @@ store murid = 0
 store kuku = 'pendek'
 
 while murid =< jmlmurid
-  if kukumurid = 'pendek' then
+  if kuku = 'pendek' then
     display 'mendapat pujian'
   else
     diplay 'mendapat hukuman'
