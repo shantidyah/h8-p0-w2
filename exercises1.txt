@@ -42,10 +42,10 @@ display 'mesin cuci akan menyala'
 
 store jmlmurid = 40
 store murid = 0
-store Kuku = 'kukupendek'
+store kuku = 'pendek'
 
 while murid =< jmlmurid
-  if murid = kukupendek then
+  if kukumurid = 'pendek' then
     display 'mendapat pujian'
   else
     diplay 'mendapat hukuman'
