@@ -12,7 +12,7 @@ display resultan
 
 2. Tahun Kabisat
 
-store tahun null
+store tahun
 
 if tahun mod 4 = 0, tahun mod 100 <> 0
   display 'tahun ini merupakan tahun kabisat'
