@@ -20,3 +20,7 @@ else if (nama!==''&&peran==='penyihir') {
   console.log("selamat datang di dunia proxytia, "+nama);
   console.log("halo "+peran+" "+nama+", ciptakan kerajaan yang membantu kemenanganmu!");
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 617acc7fcfa97a547bdf0ee21c3bfe0cd9a4fd3c

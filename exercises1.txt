@@ -12,7 +12,7 @@ display resultan
 
 2. Tahun Kabisat
 
-store tahun null
+store tahun
 
 if tahun mod 4 = 0, tahun mod 100 <> 0
   display 'tahun ini merupakan tahun kabisat'
@@ -42,10 +42,10 @@ display 'mesin cuci akan menyala'
 
 store jmlmurid = 40
 store murid = 0
-store Kuku = 'kukupendek'
+store kuku = 'pendek'
 
 while murid =< jmlmurid
-  if murid = kukupendek then
+  if kuku = 'pendek' then
     display 'mendapat pujian'
   else
     diplay 'mendapat hukuman'
