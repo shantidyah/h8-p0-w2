@@ -16,7 +16,7 @@ store tahun
 
 if tahun mod 4 = 0, tahun mod 100 <> 0
   display 'tahun ini merupakan tahun kabisat'
-if else tahun mod 4 = 0, tahun mod 100 = 0, tahun mod 400 = 0
+else if tahun mod 4 = 0, tahun mod 100 = 0, tahun mod 400 = 0
   display 'tahun ini merupakan tahun kabisat'
 else
   display 'tahun ini bukan merupakan tahun kabisat'
